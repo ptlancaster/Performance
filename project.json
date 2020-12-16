@@ -1,8 +1,0 @@
-{
-    "kinesisVersion": "2.0.0",
-    "name": "Superstore",
-    "description": "Sample Kinesis CI Project for Functional Testing",
-    "srcDir": "src",
-    "jobDir": "test",
-    "contextDir": "context"
-}
